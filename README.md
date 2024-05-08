@@ -7,7 +7,7 @@ Tools are available as a node for Nuke or Nuke Non-Commercial, and as a DCTL for
 ## [Display Transforms](display-transforms)
 - **OpenDRT**  
   A simple and robust display transform designed for smooth tonality, neutral appearance, faithful rendering of input colorimetry where possible.
-- **JzDT**  
+- **JzDT**  (deprecated, don't use this one)
   Another experiment using the max(r,g,b) norm and the JzAzBz LMS space.
 
 ## [Look Transforms](look-transforms)
